@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+ .brand-logo{
+ 	height: 50px;/*auto*/
+ 	width: 100px;/*100%*/
+ }
